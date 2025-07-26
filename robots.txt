@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://dima123-wq.github.io/sitemap.xml
